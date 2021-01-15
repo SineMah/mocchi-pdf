@@ -5,7 +5,13 @@ Pdf to image converter
 ## Installation
 
 ```bash
-git@github.com:SineMah/mocchi-pdf.git
+git clone git@github.com:SineMah/mocchi-pdf.git
+```
+
+or
+
+```bash
+composer require mocchi/pdf
 ```
 
 ```php
