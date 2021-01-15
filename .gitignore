@@ -1,0 +1,12 @@
+node_modules
+vendor
+storage
+var
+dist
+.idea
+.env
+composer.lock
+files
+tests
+
+**/.DS_Store

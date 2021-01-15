@@ -1,0 +1,18 @@
+{
+    "name": "mocchi/pdf",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "SineMah",
+            "email": "info@mincedmind.com"
+        }
+    ],
+    "description": "",
+    "autoload": {
+        "psr-4": {
+            "Mocchi\\Pdf\\": "src/Pdf/"
+        }
+    },
+    "require": {}
+}
