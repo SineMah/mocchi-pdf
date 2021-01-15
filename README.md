@@ -1,4 +1,4 @@
-# mocchi
+# mocchi-Pdf
 
 Pdf to image converter
 
@@ -24,7 +24,7 @@ $file->convert(['width' => 800, 'quality' => 100, 'type' => 'png']);
 * file_name (string)
 * page (int)
 
-Mocchi-Pdf overload values with default params from your source file.
+mocchi-Pdf overload values with default params from your source file.
 
 ## License
 MIT
