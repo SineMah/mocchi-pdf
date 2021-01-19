@@ -58,7 +58,7 @@ class Im {
     }
 
     protected function loadMeta() {
-        $cmd = 'convert ' . $this->file . ' -format "%w:%h:%x:%y:%N" info:';
+        $cmd = 'convert ' . $this->file . ' -format "%w:%h:%x:%y:%n" info:';
         $out = $this->cmd($cmd);
 
         $meta = explode(':', $out);
